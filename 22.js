@@ -3,7 +3,7 @@ let a = 11;
 let b = 9;
 let c = 3;
 
-// Змініть код лише під цим рядком
+// Only change code below this line
 a -= 6;
 b -= 15;
 c -= 1;
