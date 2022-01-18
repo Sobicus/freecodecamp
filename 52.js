@@ -1,3 +1,4 @@
+//#52
 // Declare the myGlobal variable below this line
 const myGlobal = 10; 
 
