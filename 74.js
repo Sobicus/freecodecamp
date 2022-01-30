@@ -1,7 +1,7 @@
 //#74
 
 function testSize(num) {
-  // Змініть код лише під цим рядком
+  // Onlu change code below this line
   if (num < 5) {
     return "Tiny";
   } else if (num < 10) {
@@ -13,7 +13,7 @@ function testSize(num) {
   } else {
     return "Huge";
   }
-  // Змініть код лише над цим рядком
+  // Onlu change code above this line
 }
 
 testSize(7);

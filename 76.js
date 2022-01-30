@@ -1,3 +1,5 @@
+//#76
+
 function caseInSwitch(val) {
   let answer = "";
   // Змініть код лише під цим рядком
