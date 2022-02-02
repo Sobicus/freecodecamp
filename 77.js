@@ -2,7 +2,7 @@
 
 function switchOfStuff(val) {
   let answer = "";
-  // Змініть код лише під цим рядком
+  // Only change code below this line
   switch (val) {
     case "a":
       answer = "apple";
@@ -16,7 +16,7 @@ function switchOfStuff(val) {
     default:
       answer = "stuff";
   }
-  // Змініть код лише над цим рядком
+  // Only change code above this line
   return answer;
 }
 

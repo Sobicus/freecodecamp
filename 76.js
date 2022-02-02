@@ -2,7 +2,7 @@
 
 function caseInSwitch(val) {
   let answer = "";
-  // Змініть код лише під цим рядком
+  // Only change code below this line
   switch (val) {
     case 1:
       answer = "alpha";
@@ -18,7 +18,7 @@ function caseInSwitch(val) {
       break;
   }
 
-  // Змініть код лише над цим рядком
+  // Only change code above this line
   return answer;
 }
 

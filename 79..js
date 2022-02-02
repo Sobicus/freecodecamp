@@ -1,7 +1,8 @@
 //#79
+
 function chainToSwitch(val) {
   let answer = "";
-  // Змініть код лише під цим рядком
+  // Only change code below this line
   switch (val) {
     case "bob":
       answer = "Marley";
