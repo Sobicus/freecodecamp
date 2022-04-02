@@ -1,4 +1,10 @@
-let a = 10;
-let b = 20;
-let c = a+b;
-console.log(c);
+// Setup
+const myDog = {
+    "name": "Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"]
+};
+
+// Change code below this line
+myDog.name = "Happy Coder"
